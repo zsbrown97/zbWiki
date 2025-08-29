@@ -4,6 +4,8 @@
 
 `mkdir <directoryName>` - Makes new directory
 
+`mv <oldDirectoryName> <newDirectoryName>` - Renames directory
+
 `rm -d <directoryName>` - Remove empty directory
 
 `rm -r <directoryName>` - Remove non-empty directory and its contents
